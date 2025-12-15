@@ -6,7 +6,7 @@ Este proyecto integra dos enfoques de inteligencia artificial en un solo trabajo
 + **El objetivo es demostrar cómo los métodos heurísticos y las redes neuronales pueden utilizarse para optimizar valores y modelar fenómenos reales como el clima.**
 
 ### Características
-## Algoritmo Heurístico (Python)**
+## Algoritmo Heurístico (Python)
 + **Optimización de una función cuadrática mediante búsqueda aleatoria.**
 + **Selección del mejor valor positivo encontrado.**
 + **Visualización en consola del progreso por iteración.**
